@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "Nidhish Nerur"
-  avatar           : "images/profile.png"
+  avatar           : "/profile.png"
   bio              : "Short biography for the left-hand sidebar"
   employer         : "University of Texas at Austin"
   email            : "nidhishnerur@gmail.com" 
