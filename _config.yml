@@ -24,9 +24,10 @@ author:
   # Biographic information
   name             : "Nidhish Nerur"
   avatar           : "/profile.png"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Information Systems"
   employer         : "University of Texas at Austin"
-  email            : "nidhishnerur@gmail.com" 
+  email            : "mailto:nidhishnerur@gmail.com"
+
 
   # Academic websites
   academia         : # URL
